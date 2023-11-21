@@ -8,4 +8,4 @@ Feel free to use our code for scientific causes.
 
 Authors:
 github.com/krokodylix
-github.com/majsterowygit
+github.com/meist3r
